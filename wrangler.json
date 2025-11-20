@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9f4087c9-b977-4e6a-b020-3b332f72e0ee",
+      "database_name": "eve-api-sql"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
